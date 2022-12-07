@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our aim is to unravel the neural mechanisms of **learning & memory** and how **brain plasticity** is linked to the human gut microbiome. The **Wagner Lab** is located at the University of Vienna since 2021.
